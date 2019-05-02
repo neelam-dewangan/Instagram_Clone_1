@@ -1,0 +1,14 @@
+.App {
+  text-align: right;
+  margin: 5% 5% 5% 5%;
+  background-color: antiquewhite;
+}
+
+.upload-link{
+  position: fixed;
+  top: 5%;
+  right: 5%;
+  width: 200px;
+  border: 1px solid rgb(15, 15, 14);
+  text-align: center;
+}

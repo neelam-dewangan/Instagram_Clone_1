@@ -1,0 +1,64 @@
+/* .heart{
+    width: 20px;
+    height: 20px;
+    align-content: center;
+} */
+
+.mainApp{
+    font-size: 15px;
+    height: 100%;
+    width: 100%;
+}
+.initial-component{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.head-container{
+    display: flex;
+    flex-basis: 50%;    
+}
+.profile-picture{
+    padding: 13px 5px 5px 15px;
+    border: 1px solid #030303;
+    border-radius: 2px;
+    height: 30px;
+    width: 30px;
+}
+.profile-name{
+    padding: 13px 5px 5px 15px;
+}
+.image-container{
+    display: block;     
+}
+.image-sec{
+    padding: 3px 3px 3px 3px;
+    height: 300px;
+    width: 200px;
+}
+.image-sec img{
+    height: 100%;
+    width: 100%;
+}
+.like-comment{
+    display: flex;
+    flex-basis: 50%;  
+   
+}
+.img-caption{
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+}
+.heart{
+    padding: 5px 5px 5px 5px;
+    font-size: 30px;
+    color: red;
+
+}
+.comment{
+    padding: 5px 5px 5px 5px;
+    
+}
+.comment-box{
+    text-align: left;
+    padding: 10px 10px;
+}
